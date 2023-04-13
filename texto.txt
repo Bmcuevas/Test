@@ -1,0 +1,276 @@
+# Legal
+
+[Legal 2022](https://www.youtube.com/playlist?list=PLPrmbrFSGkEKu2ceCxRNebxzF8VmuacxY)
+
+[Preguntas Exámenes](https://www.notion.so/Preguntas-Ex-menes-fa08212e982c40a6827c6a0e8aba4093)
+
+[Contratos Y Firma Digital](https://peridot-uncle-ee3.notion.site/Legal-cab62641825f48a08b3f68efe530945f?p=14b8db9d8163451684916b249b40f9b1&pm=s)
+
+# Clase 1 - Fuentes del derecho
+
+**¿Qué es el derecho?** 
+
+**Sentido objetivo:** conjunto de normas que rigen la vida de sociedad. 
+
+**Sentido subjetivo:** facultad que tiene una persona y que puede valer frente a otros en una sociedad. 
+
+**¿Cómo puede ser el derecho?** 
+
+**Público:** está involucrado el estado. Derecho constitucional, administrativo, tributario, penal. 
+
+**Derecho del trabajo:** se ubica entre el derecho público y el derecho privado. 
+
+**Privado:** las dos partes son siempre personas del ámbito privado. No tiene interés el estado. Derecho civil, comercial, societario. 
+
+**¿De donde surge el derecho? ¿Fuentes del derecho?** 
+
+**Fuentes mediatas:** son fuentes filosóficas que tienen dos corrientes de pensamiento. No las estudiamos en el curso. 
+
+- Iusnaturalismo: dice que existe un orden natural en las cosas. Por el hecho de ser humanos tenemos ciertos derechos.
+- Iuspositivismo: son los hombres los que deciden los derechos.
+
+**Fuentes inmediatas:** es de donde surge el derecho. Nos referimos a la ley. Son las fuentes que estudiamos en la materia. 
+
+- **Ley:** es la principal fuente de derecho. Tiene dos sentidos.
+    - **Sentido formal:** es una norma emitida por el poder legislativo. Es *coactiva* (cumplimiento forzoso). El estado me obliga a cumplirla.
+    - **Sentido material:** es dictada por un organismo que tiene capacidad de regular. Por ejemplo un club. No la dicta el poder legislativo y tampoco tiene parte coactiva.
+- **Costumbre:** son formas de comportamiento que adopta la sociedad.
+    - Secundum legem: sigue el mismo criterio que la ley. Aplicación de la ley. Genera derechos.
+    - Prater legem: regula algo que no está contemplado en la ley. Son costumbres que tiene y acepta un pueblo. Si se prueba que la costumbre existe te dan la razón. “Te digo por wsp que tu nota es un 8 pero después de paso un 4”. Genera derechos.
+    - Contra legem: es contraria a lo que dice la ley. No genera derecho. No genera derechos. *“No porque todo el mundo se baje películas de Cuevana quiere decir que haya un derecho a hacerlo”*.
+- **Jurisprudencia:** interpretación que los jueces hacen de las normas o leyes. En Argentina no es tan importante pero en otros países si porque construyen las leyes y decisiones a partir de lo que dicen los jueces.
+- **Doctrina:** tiene papel importante como fuente de derecho. La doctrina ayuda a comprender o interpretar las leyes. Puede haber distintas interpretaciones para las leyes. Vas a recurrir al doctrinario que dice lo que vos queres decir.
+
+**¿Cuál es el organo más importante de Jurisprudencia en Argentina?** 
+
+La corte suprema de la nación. Pero… cada provincia tiene su corte suprema. 
+
+**¿Qué es la piramide normativa?** 
+
+Nos permite ver como esta generado el sistema jurídico. La norma que esta más arriba tiene que prevalecer frente a la que está más abajo. *“Las leyes no pueden contradecir a la constitución”*
+
+- Ambito Nacional
+- Ambito provincial
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d84206b-1ac0-41b9-8d8e-40f036886046/Untitled.png)
+
+**¿Qué pasa si una ley provincial contradice a una ley nacional? ¿Qué ley prevalece?**
+
+La respuesta es **DEPENDE**. Las provincias le delegan a la nación la regulación de determinadas materias. Todas las materias que no delegaron las retuvieron. Un delito es igual en todos lados en el país pero las leyes procesales pueden ser distintas. En Estados Unidos esto es muy visible. “*Las provincias son estados”*. 
+
+Hay dos esferas entonces: la provincial y la nacional. 
+
+**¿Quién declara la inconstitucionalidad de una ley?** 
+
+En Argentina **cualquier juez puede declarar la inconstitucionalidad de una ley**. Esta declaración es para casos particulares. No es para todos los casos, son para casos individuales hasta que cambie la ley. *“Viene una pareja que por ley no se puede casar y se declara que, para esa pareja, la ley es inconstitucional” “En mi caso usar el barbijo es inconstitucional porque si lo uso me muero”*. Esto lo tiene que declarar un juez, no puede decidirlo una persona por su cuenta. 
+
+**¿Cómo están conformados los poderes del estado en Argentina?** 
+
+Cada uno de estos poderes se repite a nivel provincial y a nivel municipal. Estos poderes se controlan los unos a los otros. 
+
+**Poder Ejecutivo:** se encarga de administrar el país. Participa de la formación de las leyes. Facultad reglamentaria
+
+Nacional: presidente; Provincial: gobernador; Municipal: intendente. 
+
+**Poder Legislativo:** la principal función es sancionar las leyes. Lo forman diputados y senadores. 
+
+**Poder Judicial:** la cabeza es la corte suprema de justicia. Se encarga de interpretar la constitución (dice que cosas son constitucionales y que cosas no lo son). 
+
+**¿Que significa reglamentar una ley? ¿Facultad reglamentaria?** 
+
+Las leyes necesitan ser reglamentadas. Esto significa: definir los detalles sin los cuales la ley no es operativa. Osea… es dar el ambiente para que la ley exista y además sea operativa. 
+
+**¿Que es un Decreto de Necesidad y Urgencia (DNU)?**
+
+Hay determinadas materias en las que el poder ejecutivo puede dictar normas parecidas a las leyes. 
+
+**Tarea: leer los primeros 19 artículos de la constitución.** 
+
+# Clase 2 y 4 - Derecho Constitucional
+
+**¿Qué es una constitución?** 
+
+**¿Qué es el principio de supremacía constitucional?** 
+
+Artículo 31. La doctrina especializada en derecho constitucional considera que hay tres recursos jurídicos para que una constitución sea suprema: 
+
+1. La constitución no se puede modificar como si fuera una ley. 
+
+Este principio permite ser graficado como una piramide:
+
+- Plano superior: constitución, leyes, tratados.
+- Plano inferior: otras cosas.
+
+*Los mecanismos jurídicos que la doctrina constitusionalista ideo para que una constitución se mantenga suprema tiene que ver con: el procedimiento agravado de reforma, la posibilidad de declarar la inconstitucionalidad de una ley y la aplicación del principio de supremacía constitucional* 
+
+¿Cómo se ubica el plano superior? 
+
+El articulo 75 inciso 22. Hay dos respuestas posibles: 
+
+1. Constitución - tratados - leyes de la nación 
+2. Constitución + tratados - leyes
+
+**¿Cómo se modifica la constitución?** 
+
+Es un procedimiento doblemente agravado. 
+
+1. Interviene el congreso: diputados y senadores buscan aprobar una ley que declare la necesidad de reforma de la constitución. 
+2. Interviene un organo que se llama “Convención constituyente”. Lleva adelante el proceso constitucional. Las personas que integran este organo se elige por el voto popular. 
+3. 
+
+**¿En qué artículo esta reconocida la propiedad privada?** 
+
+Artículo 17. 
+
+**¿Artículo 1 de la constitución?** 
+
+Establece a la argentina como un país **republicano** (el poder esta dividido), **federal** (el poder esta asignado según una base geográfica territorial: hay poder nacional, municipal, provincial), **representativo** (nuestro voto genera que actúen personas en nuestra representación). 
+
+**¿Artículo 2 de la constitución?** 
+
+El gobierno federal sostiene el culto católico, apostólico y romano. Es un sentido económico. 
+
+**¿Artículo 5 de la constitución?** 
+
+Reconoce el derecho que tienen las provincias para dictar sus propias normas. 
+
+**¿Artículo 14 de la constitución?** 
+
+Hace referencia a los derechos de los habitantes de la nación conforme a las leyes que rigen a estos derechos. Esto significa que no hay derechos absolutos y que el estado los puede reglamentar. Derechos de primera generación. 
+
+**¿Qué es el poder de policía?** 
+
+Es la facultad que tiene el estado de reglamentar los derechos individuales a través de leyes. 
+
+**¿Artículo 14 bis de la constitución?** 
+
+Se incorporó después. Tiene que ver con los derechos sociales. Por ejemplo, vinculados con el trabajo. Salario mínimo, dignidad… derechos de segunda generación. 
+
+**¿Artículo 43 de la constitución?** 
+
+Se reconoce la protección del ambiente. Derechos de tercera generación. 
+
+**¿Artículo 17 de la constitución?**
+
+Habla de la propiedad, que es inviolable. 
+
+**¿Artículo 19 de la constitución?**  
+
+Habla de las acciones privadas de los hombres. Es el artículo más importante de la sociedad. Tiene que ver con derechos básicos que se nos reconocen. Nadie me puede imponer algo que no este previsto por la ley. 
+
+**¿Donde se encuentra la parte dogmatica de la constitución?** 
+
+Se encuentra desde el artículo 1 hasta el artículo 43. 
+
+**¿Donde se encuentra la parte orgánica de la constitución?**
+
+Desde el artículo 44. Nos dice cómo se estructuran los poderes en el país. 
+
+### Poder legislativo
+
+**¿Qué se necesita para ser elegido diputado? art 48**
+
+25 años (al asumir), 4 años de ciudadanía en ejercicio, ser natural de la provincia que te elige o tener dos años de residencia en ella. Todo esto al momento de asumir. 
+
+**¿Qué se necesita para ser elegido senador? art 55**
+
+30 años (al momento de la elección), 6 años de ciudadanía de la nación en ejercicio, ganar 2000 pesos fuertes (perdió vigencia), ser natural de la provincia que te elige o tener dos años de residencia en ella. Todo esto al momento de la elección. 
+
+**¿Poder legislativo de la nación?** 
+
+Los diputados y senadores se encargan de llevar a cabo el juicio político. 
+
+**¿Qué es el juicio político?** 
+
+Es la destitución de políticos de alto rango como presidentes, vicepresidente, ministros y miembros de la corte suprema. Esto lo decide el congreso y el procedimiento tiene origen en la cámara de diputados. 
+
+Las causas que habilitan a un juicio político son: mal desempeño, crímenes comunes, delito cometido en el ejercicio de las funciones. La cámara de diputados es la cámara acusadora (fiscal). El procedimiento requiere de cierta mayoría y varias condiciones. 
+
+La camara de diputados acusa y los senadores actúan cómo jueces, decidiendo la destitución o no. 
+
+**¿Inmunidades de los legisladores?** 
+
+**Inmunidad de arresto:** si alguien quiere detener a un diputado o senador hay que seguir un procedimiento. Los legisladores no pueden ser arrestados. 
+
+**Inmunidad de opinión:** los legisladores no pueden ser acusados ni molestados por su opinión. Esto es para no limitar la actuación. 
+
+**¿Atribuciones del congreso de la nación? art 75. Leer.** 
+
+Se consagran las atribuciones de las que gozan los miembros del congreso. 
+
+**¿Procedimiento de sanción de leyes? art 77 - art 84**
+
+Una de las cámaras actúa como cámara de **origen** y otra como cámara **revisora**. Esta condición puede ser intercambiable entre la cámara de senadores y la de diputados. Sin embargo, hay proyectos que si o si tienen que tener como origen a una o a la otra. 
+
+Cuando el proyecto se aprueba por ambas cámaras pasa al poder ejecutivo que lo puede aprobar o lo puede rechazar. Si se rechaza se repite el proceso. Si las dos cámaras vuelven a aprobar el proyecto entonces el poder ejecutivo no puede hacer nada. Se aprueba con 2/3 de los votos. 
+
+**Media sanción:** el proyecto se aprobó en la cámara de origen. 
+
+Si la cámara revisora rechaza el proyecto, no se puede volver a tratar durante ese año de sesión. 
+
+**¿Tipos de sesiones?** 
+
+- Preparatorias: toman juramento de los nuevos, hacen control de los títulos…
+- Ordinarias
+- Extraordinarias: tienen un temario específico. Las puede convocar el presidente de la nación. Ejemplo pandemia.
+
+### Poder ejecutivo
+
+**¿Cómo es el poder ejecutivo en Argentina?** 
+
+Es unipersonal. Lo ejerce una sola persona elegida. 
+
+**¿Que hace el vicepresidente?** 
+
+Dirige las sesiones en el senado. Las preside. Cuando el presidente no esta en función asume el vicepresidente. “Acefalía transitoria”. Si no puede asumir el vicepresidente tiene que asumir el presidente provisional del senado. Si no puede… el presidente de la cámara de diputados. 
+
+Se puede convocar a una asamblea legislativa (actúa la cámara de diputados y de senadores en conjunto). Ahí se puede elegir un presidente. 
+
+**¿Qué se requiere para ser presidente de la nación?** 
+
+Haber nacido argentino o ser hijo de ciudadano nativo y las cualidades para ser elegido senador. 
+
+Hay un procedimiento especial: ballotage. Se da ante ciertas condiciones. En la segunda vuelta basta ganar con un voto para que se imponga una persona. 
+
+**Segunda clase de derecho constitucional**
+
+**¿Cómo se elige al presidente?** 
+
+Si la formula más votada tiene más del 45% de los votos no hay ballotage. En otro caso hay ballotage y gana aquella formula que se queda con la mayoría de votos. 
+
+**Explico algo del consejo de la magistratura que no entendí** 
+
+**¿Cómo se eligen a los camaristas?** 
+
+Cuando se trata de jueces de cámara o jueces de primera instancia la elección de tiene que hacer por medio del consejo de la magistratura mediante los siguientes pasos: concurso, examen, antecedentes, ranking, el poder ejecutivo elige al candidato. 
+
+**¿Qué es un decreto autonomo? articulo 99 inciso 1.** 
+
+Establece que el presidente de la nación tiene determinadas atribuciones. Poner marcha obra pública, abrir ministerio, cerrar ministerio. 
+
+**¿Decreto reglamentario o reglamento de ejecución? articulo 99 inciso 2**
+
+Son decretos o normas que sirven para poner en ejecución las leyes. Están ligados a las leyes que reglamentan. El poder ejecutivo puede reglamentar las leyes (primero tiene que existir la ley) sin alterar el contenido de fondo de las mismas. 
+
+**¿Decreto de necesidad y urgencia DNU?**
+
+Da al poder ejecutivo facultades del poder legislativo para ciertas circunstancias. Puede sancionar leyes de carácter legislativo.  No requiere de ninguna ley del congreso. 
+
+**¿Reglamento delegado?** 
+
+El congreso le delega facultades legislativas al poder ejecutivo. Sin embargo, tiene que haber un marco sobre el cuál el poder ejecutivo puede actuar. 
+
+El poder ejecutivo no puede crear delitos, impuestos y no puede modificar el sistema electoral ni el régimen de los partidos políticos. 
+
+**¿Que hace el jefe de gabinete? articulo 100**
+
+Es una figura como la del primer ministro. No tiene relevancia en Argentina. 
+
+¿Que hace el poder ejecutivo? 
+
+Administra. 
+
+### Poder judicial - 108 en adelante
+
+¿Cómo se designa un juez?
+
